@@ -1,0 +1,12 @@
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\ariel\Dropbox\Code\Dotnet\TestCRM\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache
